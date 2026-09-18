@@ -5,4 +5,6 @@
 
 # Daftar File
 Phase 1 Flowchart
+- AttarSamAradana_Ruby.pdf
+  
 Phase 2 Last Astronaut & Alien In The Middle
