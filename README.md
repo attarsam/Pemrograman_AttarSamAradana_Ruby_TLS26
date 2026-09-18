@@ -16,6 +16,6 @@ Phase 2
 
 - Alien In The Middle
   
-[ AlienInTheMiddle.cpp](https://github.com/attarsam/Pemrograman_AttarSamAradana_Ruby_TLS26/tree/main)
+   [ AlienInTheMiddle.cpp](https://github.com/attarsam/Pemrograman_AttarSamAradana_Ruby_TLS26/tree/main)
 
   
