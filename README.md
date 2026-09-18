@@ -5,6 +5,6 @@
 
 # Daftar File
 Phase 1 Flowchart
-- AttarSamAradana_Ruby.pdf
+- [AttarSamAradana_Ruby.pdf](https://github.com/attarsam/Pemrograman_AttarSamAradana_Ruby_TLS26/blob/main/AlienInTheMiddle.cpp)
   
 Phase 2 Last Astronaut & Alien In The Middle
