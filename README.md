@@ -9,4 +9,4 @@ Phase 1 Flowchart
   
 Phase 2 
 - Last Astronaut
-  https://github.com/attarsam/Pemrograman_AttarSamAradana_Ruby_TLS26/tree/main
+  Pemrograman_AttarSamAradana_Ruby_TLS26
